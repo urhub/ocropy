@@ -1,5 +1,5 @@
 Author:   Umesh Rao
-Email:    usraos.gmail.com
+Email:    usraos@gmail.com
 Please email if you have any questions about these files.
 
 inSod.gz:             Ocropy model for italics letters, normal letters are mapped to punctuation symbols
